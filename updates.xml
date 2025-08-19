@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="damoeckchjofgdlggkeffmiheogiiogb">
-    <updatecheck codebase="https://your-site.netlify.app/your-extension.crx" version="1.2.0" />
+    <updatecheck codebase="https://raw.githubusercontent.com/username/repo/branch/path/to/extension.crx" version="1.1" />
   </app>
 </gupdate>
